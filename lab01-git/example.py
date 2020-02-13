@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print ("Hello, universe")
+print ("Hello, plant")
